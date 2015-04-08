@@ -21,7 +21,7 @@ usage : tty-clock [-iuvsScbtrahDBxn] [-C [0-7]] [-f format] [-d delay] [-a nsdel
 
 # Prerequisites
 
-    apt-get install ncurses-dev
+    apt-get install ncurses-dev libncursesw5-dev
     
 # To compile it
 
